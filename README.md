@@ -104,4 +104,4 @@ Progetto realizzato dagli studenti del corso di Informatica della Federico II - 
 * **Marino Ometo**
 * **Matteo Tufano**
 
-📅 **Scadenza progetto:**31 marzo 2026**
+**Scadenza progetto:**31 marzo 2026**
