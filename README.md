@@ -1,14 +1,14 @@
-# ✈️ Progetto Aeroporto - Sistema di Gestione
+# Progetto Aeroporto - Sistema di Gestione
 
 Questo repository contiene l'implementazione completa del sistema di gestione aeroportuale. Il progetto è un'applicazione desktop sviluppata in **Java** che utilizza un'interfaccia grafica **Swing** e un **Database Relazionale** per la persistenza dei dati.
 
 Il sistema segue l'architettura **MVC (Model-View-Controller)** separando la logica di business, l'interfaccia utente e l'accesso ai dati.
 
-## 📁 Struttura del Progetto
+## Struttura del Progetto
 
 Il progetto è suddiviso in moduli logici per garantire modularità e manutenibilità.
 
-### 🖥️ Interfaccia Grafica (View)
+### Interfaccia Grafica (View)
 
 Implementata con Java Swing (`src/Gui`).
 
@@ -23,13 +23,13 @@ Gui/src/
 ├── Prenotazione.form / .java   # Gestione prenotazioni
 └── UtenteGenerico.form / .java # Dashboard utente
 
-# ✈️ Progetto Aeroporto - Sistema di Gestione
+# Progetto Aeroporto - Sistema di Gestione
 
 Questo repository contiene l'implementazione completa del sistema di gestione aeroportuale. Il progetto è un'applicazione desktop sviluppata in **Java** che utilizza un'interfaccia grafica **Swing** e un **Database Relazionale** per la persistenza dei dati.
 
 Il sistema segue l'architettura **MVC (Model-View-Controller)** separando la logica di business, l'interfaccia utente e l'accesso ai dati.
 
-## 📁 Struttura del Progetto
+## Struttura del Progetto
 Il progetto è suddiviso in moduli logici per garantire modularità e manutenibilità.
 
 ### Interfaccia Grafica (View)
